@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本机配置与状态（含密钥，绝不入库）
+config.json
+state.json
+*.local.json
+
+# macOS
+.DS_Store
+._*
+
+# 编辑器
+.idea/
+.vscode/
